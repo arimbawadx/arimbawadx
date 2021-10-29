@@ -1,6 +1,6 @@
 # Halo! Saya Yoga,
 
-Github ini saya pakai buat share dan simpan code yang udah saya buat. Udah itu aja. hehe
+Github ini saya gunakan buat share dan menyimpan code yang udah saya buat. Udah itu aja.
 
 
 ### 🛠 &nbsp;Tech Stack
