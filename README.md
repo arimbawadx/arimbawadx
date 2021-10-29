@@ -1,4 +1,4 @@
-<!-- # 👋 &nbsp;Hey there! I'm Yoga Arimbawa -->
+<!-- # Hey there! I'm Yoga Arimbawa -->
 
 Github ini saya pake buat share code yang udah saya buat, yang saya buat sendiri maupun team. Tapi kebanyakan bikin code kalau lagi gabut aja sih, kadang buat tugas kampus juga hehe.
 
