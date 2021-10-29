@@ -21,6 +21,7 @@ Github ini saya pakai buat share dan simpan code yang udah saya buat. Udah itu a
 <p align="center">
 <a href="https://github.com/arimbawadx">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arimbawadx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arimbawadx&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
