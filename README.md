@@ -31,7 +31,7 @@ Github ini saya pakai buat share dan simpan code yang udah saya buat. Udah itu a
 <a href="https://www.arimbawadx.com"><img src="https://img.shields.io/badge/-arimbawadx.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://api.whatsapp.com/send?phone=6285847801933&text=Halo%20Yoga"><img src="https://img.shields.io/badge/-085847801933-3423A6?style=flat&logo=Whatsapp&logoColor=white"/></a>
 <a href="https://t.me/arimbawadx"><img src="https://img.shields.io/badge/-@arimbawadx-3423A6?style=flat&logo=Telegram&logoColor=white"/></a>
-<a href="http://line.me/ti/p/~deyogaa95"><img src="https://img.shields.io/badge/-deyogaa95-3423A6?style=flat&logo=Whatsapp&logoColor=white"/></a>
+<a href="http://line.me/ti/p/~deyogaa95"><img src="https://img.shields.io/badge/-deyogaa95-3423A6?style=flat&logo=LINE&logoColor=white"/></a>
 <a href="mailto:yogade9595.yd@gmail.com"><img src="https://img.shields.io/badge/-yogade9595.yd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/arimbawadx"><img src="https://img.shields.io/badge/-@arimbawadx-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/arimbawadx"><img src="https://img.shields.io/badge/-@arimbawadx-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
