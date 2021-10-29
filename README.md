@@ -1,6 +1,6 @@
-# Hey there! I'm Yoga Arimbawa
+# Halo! Saya Yoga,
 
-Github ini saya pakai buat share code yang udah saya buat, baik itu buat sendiri maupun team. Tapi kebanyakan bikin code kalau lagi gabut aja sih, kadang buat tugas kampus juga hehe.
+Github ini saya pakai buat share dan simpan code yang udah saya buat. Udah itu aja.
 
 
 ### 🛠 &nbsp;Tech Stack
