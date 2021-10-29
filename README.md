@@ -1,14 +1,14 @@
-<!-- # Hey there! I'm Yoga Arimbawa -->
+# Hey there! I'm Yoga Arimbawa
 
-Github ini saya pake buat share code yang udah saya buat, yang saya buat sendiri maupun team. Tapi kebanyakan bikin code kalau lagi gabut aja sih, kadang buat tugas kampus juga hehe.
+Github ini saya pakai buat share code yang udah saya buat, baik itu buat sendiri maupun team. Tapi kebanyakan bikin code kalau lagi gabut aja sih, kadang buat tugas kampus juga hehe.
 
 
 ### 🛠 &nbsp;Tech Stack
 
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
