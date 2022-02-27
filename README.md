@@ -15,27 +15,6 @@ Github ini saya gunakan untuk menyimpan code yang udah saya buat. Saya dari Klun
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
 
-### Pendidikan
-<div class="row p-3">
-  <div style="border: 1px solid; border-radius: 4%;" class="col-md-6">
-    <strong>2018-2022</strong>
-    <p style="font-size: 21px">Perguruan Tinggi - Stiki Indonesia</p>
-  </div>
-  <div style="border: 1px solid; border-radius: 4%;" class="col-md-6">
-    <strong>2015-2018</strong>
-    <p style="font-size: 21px">SMA - SMA N 1 Banjarangkan</p>
-  </div>
-  <div style="border: 1px solid; border-radius: 4%;" class="col-md-6">
-    <strong>2012-2015</strong>
-    <p style="font-size: 21px">SMP - SMP N 1 Banjarangkan</p>
-  </div>
-  <div style="border: 1px solid; border-radius: 4%;" class="col-md-6">
-    <strong>2006-2012</strong>
-    <p style="font-size: 21px">SD - SD N 1 Banjarangkan</p>
-  </div>
-</div>
-
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
