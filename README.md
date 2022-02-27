@@ -1,9 +1,9 @@
 # Halo! Saya Yoga,
 
-Github ini saya gunakan buat share dan menyimpan code yang udah saya buat. Udah itu aja.
+Github ini saya gunakan untuk menyimpan code yang udah saya buat. Saya dari Klungkung, Bali, Indonesia.
 
 
-### 🛠 &nbsp;Tech Stack
+### Programming Skill
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -15,6 +15,25 @@ Github ini saya gunakan buat share dan menyimpan code yang udah saya buat. Udah 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
 
+### Pendidikan
+<div class="row p-3">
+  <div style="border: 1px solid; border-radius: 4%;" class="col-md-6">
+    <strong>2018-Sekarang</strong>
+    <p style="font-size: 21px">Perguruan Tinggi - Stiki Indonesia</p>
+  </div>
+  <div style="border: 1px solid; border-radius: 4%;" class="col-md-6">
+    <strong>2015-2018</strong>
+    <p style="font-size: 21px">SMA - SMA N 1 Banjarangkan</p>
+  </div>
+  <div style="border: 1px solid; border-radius: 4%;" class="col-md-6">
+    <strong>2012-2015</strong>
+    <p style="font-size: 21px">SMP - SMP N 1 Banjarangkan</p>
+  </div>
+  <div style="border: 1px solid; border-radius: 4%;" class="col-md-6">
+    <strong>2006-2012</strong>
+    <p style="font-size: 21px">SD - SD N 1 Banjarangkan</p>
+  </div>
+</div>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -25,7 +44,7 @@ Github ini saya gunakan buat share dan menyimpan code yang udah saya buat. Udah 
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Kontak
 
 <p align="center">
 <a href="https://www.arimbawadx.com"><img src="https://img.shields.io/badge/-arimbawadx.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
